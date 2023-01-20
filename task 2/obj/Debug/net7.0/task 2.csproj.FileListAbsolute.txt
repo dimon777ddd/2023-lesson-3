@@ -1,0 +1,15 @@
+E:\programming\c#\2023 lesson 3\task 2\bin\Debug\net7.0\task 2.exe
+E:\programming\c#\2023 lesson 3\task 2\bin\Debug\net7.0\task 2.deps.json
+E:\programming\c#\2023 lesson 3\task 2\bin\Debug\net7.0\task 2.runtimeconfig.json
+E:\programming\c#\2023 lesson 3\task 2\bin\Debug\net7.0\task 2.dll
+E:\programming\c#\2023 lesson 3\task 2\bin\Debug\net7.0\task 2.pdb
+E:\programming\c#\2023 lesson 3\task 2\obj\Debug\net7.0\task 2.csproj.AssemblyReference.cache
+E:\programming\c#\2023 lesson 3\task 2\obj\Debug\net7.0\task 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming\c#\2023 lesson 3\task 2\obj\Debug\net7.0\task 2.AssemblyInfoInputs.cache
+E:\programming\c#\2023 lesson 3\task 2\obj\Debug\net7.0\task 2.AssemblyInfo.cs
+E:\programming\c#\2023 lesson 3\task 2\obj\Debug\net7.0\task 2.csproj.CoreCompileInputs.cache
+E:\programming\c#\2023 lesson 3\task 2\obj\Debug\net7.0\task 2.dll
+E:\programming\c#\2023 lesson 3\task 2\obj\Debug\net7.0\refint\task 2.dll
+E:\programming\c#\2023 lesson 3\task 2\obj\Debug\net7.0\task 2.pdb
+E:\programming\c#\2023 lesson 3\task 2\obj\Debug\net7.0\task 2.genruntimeconfig.cache
+E:\programming\c#\2023 lesson 3\task 2\obj\Debug\net7.0\ref\task 2.dll
