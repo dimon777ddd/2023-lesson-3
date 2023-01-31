@@ -1,0 +1,15 @@
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\bin\Debug\net7.0\task 54.exe
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\bin\Debug\net7.0\task 54.deps.json
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\bin\Debug\net7.0\task 54.runtimeconfig.json
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\bin\Debug\net7.0\task 54.dll
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\bin\Debug\net7.0\task 54.pdb
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\obj\Debug\net7.0\task 54.csproj.AssemblyReference.cache
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\obj\Debug\net7.0\task 54.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\obj\Debug\net7.0\task 54.AssemblyInfoInputs.cache
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\obj\Debug\net7.0\task 54.AssemblyInfo.cs
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\obj\Debug\net7.0\task 54.csproj.CoreCompileInputs.cache
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\obj\Debug\net7.0\task 54.dll
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\obj\Debug\net7.0\refint\task 54.dll
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\obj\Debug\net7.0\task 54.pdb
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\obj\Debug\net7.0\task 54.genruntimeconfig.cache
+E:\programming\c#\2023 lesson 3\8 seminar\task 54\obj\Debug\net7.0\ref\task 54.dll
