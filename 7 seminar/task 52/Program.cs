@@ -7,14 +7,14 @@ int[,] numbers = new int[n, m];
 FillArrayRandomNumbers(numbers);
 
 
-for (int i = 0; i < numbers.GetLength(0); i++)
+for (int j = 0; j < numbers.GetLength(1); j++)
 {
     double avarage = 0;
-    for (int j = 0; j < numbers.GetLength(1); j++)
+    for (int i = 0; i < numbers.GetLength(0); i++)
     {
         avarage = (avarage + numbers[i, j]);
     }
-    avarage = avarage / m;
+    avarage = avarage / n;
     Console.Write(avarage + "; ");
 }
 Console.WriteLine();

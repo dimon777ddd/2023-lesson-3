@@ -22,7 +22,7 @@ for (int i = 0; i < array.GetLength(0); i++)
  int b = Convert.ToInt32(Console.ReadLine());
  if (a>m && b>n)
  Console.WriteLine("There is no such number");
- else
+ else 
  {
  object c = array.GetValue(a,b);
  Console.WriteLine();
